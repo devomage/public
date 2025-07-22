@@ -1,0 +1,27 @@
+{
+  "name": "Magestorm",
+  "version": "1.0.0",
+  "displayName": "Devomage - Magestorm assets for Unity.",
+  "description": "Devomage package for Magestorm assets for Unity.",
+  "unity": "2022.2",
+  "unityRelease": "0f1",
+  "keywords": [
+    "Network",
+    "Netcode",
+    "GameObjects",
+    "Opsive",
+    "Ultimate",
+    "Character",
+    "Controller"
+  ],
+  "author": {
+    "name": "Devomage",
+    "email": "devomage@gmail.com"
+  },
+  "type": "tool",
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "2.3.1",
+    "com.opsive.shared": "2.0.0",
+    "com.opsive.ultimatecharactercontroller": "3.2.2"
+  }
+}
